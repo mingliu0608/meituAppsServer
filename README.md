@@ -1,2 +1,2 @@
 # meituAppserver
-第一次提交，完成图片抓取，和基本抓取能力
+基于modejs实现爬取美女图片，并且配合mongodb实现api接口查询读取
