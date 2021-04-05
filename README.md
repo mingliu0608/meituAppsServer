@@ -1,2 +1,2 @@
 # meituAppserver
-基于modejs实现爬取美女图片，并且配合mongodb实现api接口查询读取
+基于modejs实现爬取图片，并且配合mongodb实现api接口查询读取
